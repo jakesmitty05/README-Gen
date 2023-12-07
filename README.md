@@ -1,18 +1,7 @@
-# Title
+# README-Gen
 
 ## Description
-awdasdwa
-## Table of Contents
+program to make a README.md from inquirer propmts
 
-## Installation
-
-## Usage
-
-## License
-
-## Contributing
-
-## Tests
-
-## Questions
-
+## video
+https://drive.google.com/file/d/1IW7YVGCSh8xVKB100gZ3rUVAWcGs_K8j/view
